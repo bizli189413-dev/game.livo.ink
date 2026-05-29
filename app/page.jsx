@@ -1,7 +1,8 @@
 export default function Home() {
   return (
-    <main style={{ padding: 20 }}>
-      <h1>🎮 Landing Page Live</h1>
+    <main style={{ padding: 20, textAlign: "center" }}>
+      <h1>🎮 Game Livo Landing Page</h1>
+      <p>Site is working successfully</p>
     </main>
   );
 }
