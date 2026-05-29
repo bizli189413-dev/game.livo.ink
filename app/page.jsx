@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <main>
-      <h1>Game Livo</h1>
-    </main>
-  );
+  return <h1>Game Livo Landing Page</h1>;
 }
